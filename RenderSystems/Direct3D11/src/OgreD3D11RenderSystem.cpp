@@ -95,6 +95,7 @@ THE SOFTWARE.
     _WIN32_WINNT >= _WIN32_WINNT_WINBLUE
 #    include <dxgi1_3.h>  // for IDXGIDevice3::Trim
 #endif
+#include "Windowing/WIN32/OgreD3D11WindowHwnd.h"
 
 namespace Ogre
 {

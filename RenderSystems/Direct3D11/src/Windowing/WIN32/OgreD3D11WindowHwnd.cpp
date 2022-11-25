@@ -39,6 +39,7 @@ THE SOFTWARE.
 #include "OgreWindowEventUtilities.h"
 
 #include "OgreException.h"
+#include "Windowing/WIN32/OgreD3D11WindowHwnd.h"
 
 #if UNICODE
 #    define OGRE_D3D11_WIN_CLASS_NAME L"OgreD3D11Wnd"

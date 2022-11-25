@@ -133,7 +133,7 @@ namespace Ogre
     };
 }  // namespace Ogre
 
-#include "Windowing/WIN32/OgreD3D11WindowHwnd.h"
-#include "Windowing/WIN32/OgreD3D11WindowWinRT.h"
+//#include "Windowing/WIN32/OgreD3D11WindowHwnd.h"
+//#include "Windowing/WIN32/OgreD3D11WindowWinRT.h"
 
 #endif
